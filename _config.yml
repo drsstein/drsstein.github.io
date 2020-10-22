@@ -31,8 +31,9 @@ plugins:
   - jekyll-feed
 
 header_pages:
- - index.markdown
- - about.markdown
+ - index.md
+ - publications.md
+ - about.md
  
 social_links:
     twitter: ssteinuk

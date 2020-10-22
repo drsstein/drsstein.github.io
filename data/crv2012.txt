@@ -1,0 +1,10 @@
+@INPROCEEDINGS{Stein_2012, 
+	author = {Stein, S. and McKenna, Stephen J.}, 
+	title = {Accelerometer Localization in the View of A Stationary Camera}, 
+	booktitle = {Proceedings of the 9th Conference on Computer and Robot Vision (CRV'12), Toronto, Ontario, Canada}, 
+	month = {May},
+	year = {2011}, 
+	pages = {109 -- 116},
+	publisher = {IEEE}, 
+	doi = {10.1109/CRV.2012.22}
+}

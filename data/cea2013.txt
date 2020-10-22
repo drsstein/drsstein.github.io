@@ -1,0 +1,8 @@
+@INPROCEEDINGS{Stein_2013b, 
+	author = {Stein, S. and McKenna, S. J.}, 
+	title = {User-adaptive Models for Recognizing Food Preparation Activities}, 
+	booktitle = {Proceedings of the 21st ACM International Conference on Multimedia, 5th International Workshop on Multimedia for Cooking & Eating Activities (CEA'13), Barcelona, Spain}, 
+	month = {October},
+	year = {2013},
+	publisher = {ACM}
+}

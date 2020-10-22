@@ -1,0 +1,9 @@
+@INPROCEEDINGS{Stein_2011, 
+	author = {Stein, S. and Fink, G.A.}, 
+	title = {A new method for combined face detection and identification using interest point descriptors}, 
+	booktitle = {IEEE International Conference on Automatic Face & Gesture Recognition (FGR'11)}, 
+	year = {2011}, 
+	pages = {519-524}, 
+	publisher = {IEEE}, 
+	doi = {10.1109/FG.2011.5771452}
+}

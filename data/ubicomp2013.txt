@@ -1,0 +1,8 @@
+@INPROCEEDINGS{Stein_2013, 
+	author = {Stein, S. and McKenna, S. J.}, 
+	title = {Combining Embedded Accelerometers with Computer Vision for Recognizing Food Preparation Activities}, 
+	booktitle = {Proceedings of the 2013 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2013), Zurich, Switzerland}, 
+	month = {September},
+	year = {2013},
+	publisher = {ACM}
+}

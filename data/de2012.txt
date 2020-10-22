@@ -1,0 +1,7 @@
+@INPROCEEDINGS{Stein_2012b, 
+	author = {Stein, S. and McKenna, S. J.}, 
+	title = {Towards recognizing food preparation activities in situational support systems}, 
+	booktitle = {Digital Futures 2012 (3rd Annual Digital Economy All Hands Conference), Aberdeen}, 
+	month = {October},
+	year = {2012}
+}

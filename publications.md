@@ -1,0 +1,29 @@
+---
+layout: page
+title: Publications
+permalink: /publications
+---
+
+[Find me on Google Scholar](https://scholar.google.com/citations?user=Lr28ImIAAAAJ)
+
+ [//]: #16. (in preparation) Sebastian Stein, Frontiers in Compuational Neuroscience, 2021.
+ [//]: #15. (under review) Sebastian Stein, (CHI 2021)
+ [//]: #14. (under review) Antoine, (CHI 2021)
+ [//]: #13. (under revision) M. Bin, P. Cheung, E. Crisostomi, P. Ferraro, H. Lhachemi, R. Murray-Smith, C.Myant, T. Parisini, R. Shorten, S. Stein, L. Stone. Post-Lockdown Abatement of COVID-19 by Fast Periodic Switching, PLOS Computational Biology, 2020.
+ [//]: #12. (under revision) Evdoxia Taka, Sebastian Stein and John H. Williamson. Increasing Interpretability of Bayesian Probabilistic Programming Models through Interactive Visualizations, Frontiers in Computer Science, Special Issue on Uncertainty Visualization and Decision Making, 2020.
+ 11. M. Bin, P. Cheung, E. Crisostomi, P. Ferraro, H. Lhachemi, R. Murray-Smith, C. Myant, T. Parisini, R. Shorten, S. Stein, L. Stone. [On Fast Multi-Shot COVID-19 Interventions for Post Lock-Down Mitigation](https://arxiv.org/abs/2003.09930), arXiv, 2020. [[pdf]](https://arxiv.org/pdf/2003.09930)
+ 10. Antoine Loriette, Roderick Murray-Smith, Sebastian Stein, John H. Williamson. [Gesture Typing on Virtual Tabletop: Effect of Input Dimensions on Performance](https://dl.acm.org/doi/abs/10.1145/3132272.3135074), Proceedings of the 2017 ACM International Conference on Interactive Surfaces and Spaces (ISS 2017), October 2017. [[doi]](https://doi.org/10.1145/3132272.3135074)
+ 9. M. Simpson, S. Woodman, H. Hiden, S. Stein, S. Dowsland, M. Turner, V. L. Hanson, P. Watson. [A Platform for the Analysis of Qualitative and Quantitative Data about the Built Environment and its Users](https://eprints.gla.ac.uk/147116/13/147116.pdf), IEEE 13th InternationalConference on eScience, Aukland, New Zealand, 24-27 October 2017. [[doi]](https://doi.org/10.1109/eScience.2017.36)
+ 8. G. R. Müller-Putz, P. Ofner, A. Schwarz, J. Pereira, G. Luzhnica, C. di Sciascio, E. Veas, S. Stein, J. Williamson, R. Murray-Smith, C. Escolano, L. Montesano, B. Hessing, M. Schneiders, R. Rupp, [MoreGrasp: Resotration of Upper Limb Function in Individuals with High Spinal Cord Injury by Multimodal Neuroprostheses for Interaction in Daily Activities](http://eprints.gla.ac.uk/139948/7/139948.pdf), 7th Graz Brain-Computer Interface Conference 2017, Graz, Austria, 18-22 September 2017 [[doi]](http://dx.doi.org/10.3217/978-3-85125-533-1-62)
+ 7. Granit Luzhnica, Sebastian Stein, Eduardo E. Veas, Viktoria Pammer, John H. Williamson, Roderick Murray-Smith. [Personalising vibrotactile displays through perceptual sensitivity adjustment](https://dl.acm.org/doi/abs/10.1145/3123021.3123029), Proceedings of the 17th International Symposium on Wearable Computers (ISWC 2017), Wailea, Hawaii, USA, September 2017. [[doi]](https://doi.org/10.1145/3123021.3123029)
+ 6. Sebastian Stein and Stephen J. McKenna, [Recognising complex activities with histograms of relative tracklets](https://www.sciencedirect.com/science/article/pii/S1077314216301345), Computer Vision and Image Understanding (CVIU), Vol. 154, January 2017. [[doi]](https://doi.org/10.1016/j.cviu.2016.08.012)
+ 5. Sebastian Stein and Stephen J. McKenna, [User-adaptive models for recognizing food preparation activities](data/cea2013.pdf), ACM International Conference on Multimedia (ACMMM 2013), 5th Workshop on Multimedia for Cooking and Eating Activities (CEA 2013), Barcelona, Spain, October 2013. [[bib]](data/cea2013.txt) [[pdf]](data/cea2013.pdf) [[doi]](http://dx.doi.org/10.1145/2506023.2506031)
+ 4. Sebastian Stein and Stephen J. McKenna, [Combining Embedded Accelerometers with Computer Vision for Recognizing Food Preparation Activities](data/ubicomp2013.pdf), **over 100 citations**, The 2013 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2013), Zurich, Switzerland, 2013. [[bib]](data//ubicomp2013.txt) [[pdf]](data/ubicomp2013.pdf) [[doi]](http://dx.doi.org/10.1145/2493432.2493482)
+ 3. Sebastian Stein and Stephen J. McKenna, [Towards recognizing food preparation activities in situational support systems](data/df2012.pdf), **Best Student Paper** Digital Futures 2012 (3rd Annual Digital Economy All Hands Conference), Aberdeen, Scotland, UK, October, 2012. [[bib]](data/de2012.txt) [[pdf]](data/df2012.pdf)
+ 2. Sebastian Stein and Stephen J. McKenna, [Accelerometer Localization in the View of a Stationary Camera](data/crv2012.pdf), The 9th Conference on Computer and Robot Vision (CRV 2012), Toronto, Ontario, Canada, 2012, [[bib]](data/crv2012.txt) [[pdf]](data/crv2012.pdf) [doi](http://dx.doi.org/10.1109/CRV.2012.22)
+ 1. Sebastian Stein and Gernot A. Fink, [A new method for combined face detection and identification using interest point descriptors](data/fgr2011.pdf), The 9th IEEE International Conference on Automatic Face &amp; Gesture Recognition (FG 2011), Santa Barbara, California, USA, 2011. [[bib]](data/fgr2011.txt) [[pdf]](data/fgr2011.pdf) [[doi]](http://dx.doi.org/10.1109/FG.2011.5771452)
+
+#### Theses
+
+ - Sebastian Stein, [Multi-Modal Recognition of Manipulation Activities through Visual Accelerometer Tracking, Relational Histograms and User-Adaptation](data/2014phd.pdf), Submitted for the degree of "Ph. D." in Computing to the University of Dundee, examiners: Ioannis Patras and Jianguo Zhang, Dundee, Scotland, UK, 2014. [[pdf]](data/2014phd.pdf)
+ - Sebastian Stein,  [Face Recognition based on Interest Points](data/2010da.pdf), submitted for the degree of "Dipl.-Inf." (MSc. Computer Science equivalent) to Dortmund Technical University, examiners: Gernot A. Fink and Thomas Plötz, Dortmund, Germany, 2010.[[pdf]](data/2010da.pdf)
