@@ -14,7 +14,7 @@ His interests are in intelligent interactive systems, spanning areas of HCI, ubi
 
 ### Students
  - Keri Anderson (PhD, second supervisor)
- - Evdoxia Taka (PhD, second supervisor)
+ - [Evdoxia Taka](http://www.dcs.gla.ac.uk/~evdoxia/) (PhD, second supervisor)
  - Lucas Prieto (L4)
 
 ### Current Project Involvement
