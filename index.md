@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Home
+title: Sebastian Stein
 permalink: /
 ---
 
 ### Research Associate, University of Glasgow
 
-<img src="./img/sstein.jpg" alt-text="Sebastian Stein" width="210px" align="left" vspace="5px" hspace="10px"/> Sebastian received his German Diplom (MSc. equivalent) in Computer Science and Electrical Engineering from the Technical University of Dortmund in 2010, and for his work on recognitising manipulation actions and methods for fusing data from video and embedded accelerometers, he was awarded his PhD in Computing from the University of Dundee in 2014. He continued his research as postdoctoral research assistant in Dundee before joining the University of Glasgow as Research Associate in 2016.
+<img src="./img/sstein.jpg" alt-text="Sebastian Stein" width="210px" align="left" vspace="5px" hspace="10px"/> Sebastian received his German Diplom (MSc. equivalent) in Computer Science and Electrical Engineering from the Technical University of Dortmund in 2010, and for his work on recognising manipulation actions and methods for fusing data from video and embedded accelerometers, he was awarded his PhD in Computing from the University of Dundee in 2014. He continued his research as postdoctoral research assistant in Dundee before joining the University of Glasgow as Research Associate in 2016.
 
 His interests are in intelligent interactive systems, spanning areas of HCI, ubiquitous computing, action recognition, computer vision and machine learning. 
 
-[Find me on Google Scholar](https://scholar.google.com/citations?user=Lr28ImIAAAAJ)
+[Publications on Google Scholar](https://scholar.google.com/citations?user=Lr28ImIAAAAJ)
 
 ### Students
  - Keri Anderson (PhD, second supervisor)
