@@ -6,10 +6,14 @@ permalink: /publications
 
 [Find me on Google Scholar](https://scholar.google.com/citations?user=Lr28ImIAAAAJ)
 
- [//]: #16. (in preparation) Sebastian Stein, Frontiers in Compuational Neuroscience, 2021.
- [//]: #15. (under revision) Sebastian Stein, (CHI 2021)
- [//]: #14. (reworking for CHI Play?) Antoine, (CHI 2021)
- [//]: #14. (under review) Saeed Maadi, Sebastian Stein, Jinhyun Hong and Roderick Murray-Smith. Real-time Adaptive Traffic Signal Control in a Connected and Automated Vehicle Environment: Optimization of Signal Planning with Reinforcement Learning under Vehicle Speed Guidance, Transportation Research Part C: Emerging Technologies, Special Issue on Managing Future Motorway and Urban Traffic Systems, Elsevier, 2021.
+ [//]: #20. (in preparation) Evdoxia Taka, Sebastian Stein and John H. Williamson. Does Interaction Help Users Better Understand the Structure of Probabilistic Models? ,ACM CHI 2022.
+ [//]: #19. (in preparation) Sebastian Stein, Frontiers in Computational Neuroscience, 2021.
+ [//]: #18. (under revision) Sebastian Stein, (CHI 2021)
+ [//]: #17. (reworking for CHI Play?) Antoine, (CHI 2021)
+ [//]: #16. (under review) Saeed Maadi, Sebastian Stein, Jinhyun Hong and Roderick Murray-Smith. Real-time Adaptive Traffic Signal Control in a Connected and Automated Vehicle Environment: Optimization of Signal Planning with Reinforcement Learning under Vehicle Speed Guidance, Transportation Research Part C: Emerging Technologies, Special Issue on Managing Future Motorway and Urban Traffic Systems, Elsevier, 2021.
+ 
+ 15. (accepted) K. Anderson, C. Chirion, M. Fraser, M. Purcell, S. Stein, A. Vuckovic. [Markers of Central Neuropathic Pain in Higuchi Fractal Analysis of EEG Signals from People with Spinal Cord Injury](https://www.frontiersin.org/articles/10.3389/fnins.2021.705652/abstract), Frontiers in Neuroscience, section Neuroprosthetics, Frontiers, 2021.
+ 14. M. Bin, E. Crisostomi, P. Ferraro, R. Murray-Smith, T. Parisini, R. Shorten, S. Stein. [Hysteresis-based supervisory control with application to non-pharmaceutical containment of COVID-19](https://doi.org/10.1016/j.arcontrol.2021.07.001), Annual Reviews in Control, Elsevier, 2021. [[doi]](https://doi.org/10.1016/j.arcontrol.2021.07.001)
  13. M. Bin, P. Cheung, E. Crisostomi, P. Ferraro, H. Lhachemi, R. Murray-Smith, C.Myant, T. Parisini, R. Shorten, S. Stein, L. Stone. [Post-Lockdown Abatement of COVID-19 by Fast Periodic Switching](https://doi.org/10.1371/journal.pcbi.1008604), PLOS Computational Biology, 2021. [[doi]](https://doi.org/10.1371/journal.pcbi.1008604) [[code]](https://github.com/V4p1d/FPSP_Covid19) [[demo]](https://samoa.dcs.gla.ac.uk/covid19dashboard/2020_10_06_group_siqr)
  12. Evdoxia Taka, Sebastian Stein and John H. Williamson. [Increasing Interpretability of Bayesian Probabilistic Programming Models through Interactive Visualizations](https://www.frontiersin.org/articles/10.3389/fcomp.2020.567344/full), Frontiers in Computer Science, Special Issue on Uncertainty Visualization and Decision Making, 2020. [[doi]](https://doi.org/10.3389/fcomp.2020.567344) [[code]](https://github.com/evdoxiataka/ipme) [[talk]](https://www.youtube.com/watch?v=2hadiSJRAJI)
  11. M. Bin, P. Cheung, E. Crisostomi, P. Ferraro, H. Lhachemi, R. Murray-Smith, C. Myant, T. Parisini, R. Shorten, S. Stein, L. Stone. [On Fast Multi-Shot COVID-19 Interventions for Post Lock-Down Mitigation](https://arxiv.org/abs/2003.09930), arXiv, 2020. [[pdf]](https://arxiv.org/pdf/2003.09930)
@@ -23,6 +27,10 @@ permalink: /publications
  3. Sebastian Stein and Stephen J. McKenna, [Towards recognizing food preparation activities in situational support systems](data/df2012.pdf), **Best Student Paper** Digital Futures 2012 (3rd Annual Digital Economy All Hands Conference), Aberdeen, Scotland, UK, October, 2012. [[bib]](data/de2012.txt) [[pdf]](data/df2012.pdf)
  2. Sebastian Stein and Stephen J. McKenna, [Accelerometer Localization in the View of a Stationary Camera](data/crv2012.pdf), The 9th Conference on Computer and Robot Vision (CRV 2012), Toronto, Ontario, Canada, 2012, [[bib]](data/crv2012.txt) [[pdf]](data/crv2012.pdf) [doi](http://dx.doi.org/10.1109/CRV.2012.22)
  1. Sebastian Stein and Gernot A. Fink, [A new method for combined face detection and identification using interest point descriptors](data/fgr2011.pdf), The 9th IEEE International Conference on Automatic Face &amp; Gesture Recognition (FG 2011), Santa Barbara, California, USA, 2011. [[bib]](data/fgr2011.txt) [[pdf]](data/fgr2011.pdf) [[doi]](http://dx.doi.org/10.1109/FG.2011.5771452)
+
+#### Book Chapters
+
+ - G. Müller-Putz, A. Schwarz, J. Pereira, P. Ofner, B. Hessing, M. Schneiders, S. Stein, A. Ramsay, J. H. Williamson, R. Murray-Smith, G. Luzhnica, E. Veas, C. Escolano, L. Montesano, J. Loitz, R. Rupp . [Non-invasive Brain–Computer Interfaces for Control of Grasp Neuroprosthesis: The European MoreGrasp Initiative](https://scholar.google.com/scholar?oi=bibs&cluster=2195748392867010911&btnI=1&hl=en), Neuroprosthetics and Brain-Computer Interfaces in Spinal Cord Injury: A Guide for Clinicians and End Users, Springer, 2021. ISBN-13: 978-3030685447.
 
 #### Theses
 
