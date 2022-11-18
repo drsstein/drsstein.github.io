@@ -6,7 +6,7 @@ permalink: /contact
 
 **email** [Sebastian.Stein@Glasgow.ac.uk](mailto:sebastian.stein{at}glasgow.ac.uk)
 
-**office** Room 320\
+**office** Room F161\
 Sir Alwyn Williams Building, School of Computing Science, University of Glasgow\
 18 Lilybank Gardens, Glasgow G12 8RZ
 
