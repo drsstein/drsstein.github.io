@@ -6,14 +6,9 @@ permalink: /publications
 
 [Find me on Google Scholar](https://scholar.google.com/citations?user=Lr28ImIAAAAJ)
 
- [//]: #20. (in preparation) Evdoxia Taka, Sebastian Stein and John H. Williamson. Does Interaction Help Users Better Understand the Structure of Probabilistic Models? ,ACM CHI 2022.
- [//]: #19. (in preparation) Sebastian Stein, Frontiers in Computational Neuroscience, 2021.
- [//]: #18. (under revision) Sebastian Stein, (CHI 2021)
- [//]: #17. (reworking for CHI Play?) Antoine, (CHI 2021)
- [//]: #16. (under review) Saeed Maadi, Sebastian Stein, Jinhyun Hong and Roderick Murray-Smith. Real-time Adaptive Traffic Signal Control in a Connected and Automated Vehicle Environment: Optimization of Signal Planning with Reinforcement Learning under Vehicle Speed Guidance, Transportation Research Part C: Emerging Technologies, Special Issue on Managing Future Motorway and Urban Traffic Systems, Elsevier, 2021.
 
 #### Peer-reviewed Journals
-
+ 16. Evdoxia Taka, Sebastian Stein and John H. Williamson. [Does Interactive Conditioning Help Users Better Understand the Structure of Probabilistic Models?](https://www.computer.org/csdl/journal/tg/5555/01/10007070/1JH4iZQdoEU). IEEE Transactions on Visualization & Computer Graphics, 2023. [[doi]](https://doi.ieeecomputersociety.org/10.1109/TVCG.2022.3231967)
  15. S. Maadi, S. Stein, J. Hong and R. Murray-Smith. [Real-Time Adaptive Traffic Signal Control in a Connected and Automated Vehicle Environment: Optimisation of Signal Planning with Reinforcement Learning under Vehicle Speed Guidance](https://www.mdpi.com/1424-8220/22/19/7501). Sensors 22(19), 2022. [[doi]](https://doi.org/10.3390/s22197501)
  14. K. Anderson, C. Chirion, M. Fraser, M. Purcell, S. Stein, A. Vuckovic. [Markers of Central Neuropathic Pain in Higuchi Fractal Analysis of EEG Signals from People with Spinal Cord Injury](https://www.frontiersin.org/articles/10.3389/fnins.2021.705652/full), Frontiers in Neuroscience, section Neuroprosthetics, Frontiers, 2021. [[doi]](https://doi.org/10.3389/fnins.2021.705652)
  13. M. Bin, E. Crisostomi, P. Ferraro, R. Murray-Smith, T. Parisini, R. Shorten, S. Stein. [Hysteresis-based supervisory control with application to non-pharmaceutical containment of COVID-19](https://doi.org/10.1016/j.arcontrol.2021.07.001), Annual Reviews in Control, Elsevier, 2021. [[doi]](https://doi.org/10.1016/j.arcontrol.2021.07.001)
