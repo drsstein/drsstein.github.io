@@ -4,24 +4,29 @@ title: Sebastian Stein
 permalink: /
 ---
 
-### Research Associate, University of Glasgow
+### Research Fellow, University of Glasgow
 
-<img src="./img/sstein_2022.jpg" alt-text="Sebastian Stein" width="210px" align="left" vspace="5px" hspace="10px"/> Sebastian is a Research Associate in the School of Computing Science at the University of Glasgow. His research focus is on shared autonomy (human-in-the-loop Bayesian optimization, intelligent interactive systems, assistive technology) and intelligent agents (active inference, reinforcement learning), with interests in HCI, ubiquitous computing and machine learning.
+<img src="./img/sstein_2022.jpg" alt-text="Sebastian Stein" width="210px" align="left" vspace="5px" hspace="10px"/> Sebastian is a Research Fellow in the School of Computing Science at the University of Glasgow. His research focus is on shared autonomy (human-in-the-loop Bayesian optimization, intelligent interactive systems, assistive technology) and intelligent agents (active inference, reinforcement learning), with interests in HCI, ubiquitous computing and machine learning.
 
-He received his German Diplom (MSc. equivalent) in Computer Science and Electrical Engineering from the Technical University of Dortmund in 2010, and for his work on recognising manipulation actions and methods for fusing data from video and embedded accelerometers, he was awarded his PhD in Computing from the University of Dundee in 2014. He continued his research as postdoctoral research assistant in Dundee before joining the University of Glasgow as Research Associate in 2016.
+He received his German Diplom (MSc. equivalent) in Computer Science and Electrical Engineering from the Technical University of Dortmund in 2010. He was awarded his PhD in Computing from the University of Dundee in 2014 for his work on recognising manipulation actions and methods for fusing data from video and embedded accelerometer. He continued his research as postdoctoral research assistant in Dundee before joining the University of Glasgow as Research Associate in 2016 and continuing in Glasgow as Research Fellow in 2023.
 
 [Publications on Google Scholar](https://scholar.google.com/citations?user=Lr28ImIAAAAJ)
 
+###<span style="color:red">!! VACANCIES !!</span>
+**Deadline 30 September** funded international PhD studentship on [Interactive Model-based Probabilistic Visualisations for Exploring Decisions](https://www.findaphd.com/phds/project/phd-in-computing-science-interactive-model-based-probabilistic-visualisations-for-exploring-decisions/?p159667)
+
+
 ### Students
- - [Joseph Agrane](https://www.linkedin.com/in/joseph-agrane-5aa916213/) EPSRC Vacation Intern, June-August 2023 [[project description]](https://www.gla.ac.uk/colleges/scienceengineering/students/epsrcvacationinternships2023/anevaluationofmodel-basedmethodsforcontrolindriverlessracing/)
+ 
  - [Keri Anderson](https://twitter.com/KeriAnderson_) (PhD, second supervisor)
  - [Evdoxia Taka](http://www.dcs.gla.ac.uk/~evdoxia/) (PhD, second supervisor)
  - [Valentin Charvet](https://www.dcs.gla.ac.uk/~valentin/aboutme/) (PhD, second supervisor)
+ - [Joseph Agrane](https://www.linkedin.com/in/joseph-agrane-5aa916213/) EPSRC Vacation Intern, June-August 2023 [[project description]](https://www.gla.ac.uk/colleges/scienceengineering/students/epsrcvacationinternships2023/anevaluationofmodel-basedmethodsforcontrolindriverlessracing/)
 
 ### Current Project Involvement
  - ERC Advanced Grant (PI: [Roderick Murray-Smith](http://www.dcs.gla.ac.uk/~rod/)), 2023-2028:  Designing Interaction Freedom via Active Inference [[Press Release]](https://www.gla.ac.uk/news/headline_933340_en.html) [[website]](https://difai-project.org/) [[intro video]](https://www.youtube.com/watch?v=cMV89ojnfxk)
  
-### Past Project Involvement
+#### past project involvement
  - EPSRC funded project, 2018-2023: Closed-Loop Data Science for Complex, Computationally- and Data-Intensive Analytics, EP/R018634/1, [[website]](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/closedloop/)
  - EPSRC funded project, July-Nov 2020: Fast multi-shot epidemic interventions for post lockdown Covid-19 mitigation: Open-loop mitigation strategies, EP/V018450/1, [[website]](http://www.dcs.gla.ac.uk/~rod/covid/default.htm) [[demo]](http://samoa.dcs.gla.ac.uk/covid19dashboard/2020_10_06_group_siqr)
  - EPSRC funded project, 2014-2020: QuantIC - Quantum Technology Hub in Quantum imaging, EP/M01326X/1, [[website]](https://quantic.ac.uk)
