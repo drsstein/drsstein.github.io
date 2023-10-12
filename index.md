@@ -14,7 +14,7 @@ He received his German Diplom (MSc. equivalent) in Computer Science and Electric
 
 ### <span style="color:red">!! VACANCIES !!</span>
 
-**Deadline 30 September** International PhD studentship (fees and stipend) on [Interactive Model-based Probabilistic Visualisations for Exploring Decisions](https://www.findaphd.com/phds/project/phd-in-computing-science-interactive-model-based-probabilistic-visualisations-for-exploring-decisions/?p159667). Candidates of all nationalities are eligible to apply.
+**Deadline 31 October** International PhD studentship (fees and stipend) on [Interactive Model-based Probabilistic Visualisations for Exploring Decisions](https://www.findaphd.com/phds/project/phd-in-computing-science-interactive-model-based-probabilistic-visualisations-for-exploring-decisions/?p159667). Candidates of all nationalities are eligible to apply.
 
 
 ### Students
