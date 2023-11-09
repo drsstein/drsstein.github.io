@@ -14,16 +14,17 @@ He received his German Diplom (MSc. equivalent) in Computer Science and Electric
 
 ### <span style="color:red">!! VACANCIES !!</span>
 
-**Deadline 31 October** International PhD studentship (fees and stipend) on [Interactive Model-based Probabilistic Visualisations for Exploring Decisions](https://www.findaphd.com/phds/project/phd-in-computing-science-interactive-model-based-probabilistic-visualisations-for-exploring-decisions/?p159667). Candidates of all nationalities are eligible to apply.
+**Deadline 30 November** International PhD studentship (fees and stipend) on [Interactive Model-based Probabilistic Visualisations for Exploring Decisions](https://www.findaphd.com/phds/project/phd-in-computing-science-interactive-model-based-probabilistic-visualisations-for-exploring-decisions/?p159667). Candidates of all nationalities are eligible to apply.
 
 
 ### Students
- 
  - [Keri Anderson](https://twitter.com/KeriAnderson_) (PhD, second supervisor)
- - [Evdoxia Taka](http://www.dcs.gla.ac.uk/~evdoxia/) (PhD, second supervisor)
  - [Valentin Charvet](https://www.dcs.gla.ac.uk/~valentin/aboutme/) (PhD, second supervisor)
- - [Joseph Agrane](https://www.linkedin.com/in/joseph-agrane-5aa916213/) EPSRC Vacation Intern, June-August 2023 [[project description]](https://www.gla.ac.uk/colleges/scienceengineering/students/epsrcvacationinternships2023/anevaluationofmodel-basedmethodsforcontrolindriverlessracing/)
 
+ #### past student supervision
+  - [Evdoxia Taka](http://www.dcs.gla.ac.uk/~evdoxia/) PhD graduated in Winter 2023, I was her second supervisor
+  - [Joseph Agrane](https://www.linkedin.com/in/joseph-agrane-5aa916213/) EPSRC Vacation Intern, June-August 2023 [[project description]](https://www.gla.ac.uk/colleges/scienceengineering/students/epsrcvacationinternships2023/anevaluationofmodel-basedmethodsforcontrolindriverlessracing/)
+ 
 ### Current Project Involvement
  - ERC Advanced Grant (PI: [Roderick Murray-Smith](http://www.dcs.gla.ac.uk/~rod/)), 2023-2028:  Designing Interaction Freedom via Active Inference [[Press Release]](https://www.gla.ac.uk/news/headline_933340_en.html) [[website]](https://difai-project.org/) [[intro video]](https://www.youtube.com/watch?v=cMV89ojnfxk)
  
