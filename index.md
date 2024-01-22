@@ -18,7 +18,7 @@ He received his German Diplom (MSc. equivalent) in Computer Science and Electric
  - [Keri Anderson](https://twitter.com/KeriAnderson_) (PhD, second supervisor)
  - [Valentin Charvet](https://www.dcs.gla.ac.uk/~valentin/aboutme/) (PhD, second supervisor)
 
- #### past student supervision
+#### past student supervision
   - [Evdoxia Taka](http://www.dcs.gla.ac.uk/~evdoxia/) PhD graduated in Winter 2023, I was her second supervisor
   - [Joseph Agrane](https://www.linkedin.com/in/joseph-agrane-5aa916213/) EPSRC Vacation Intern, June-August 2023 [[project description]](https://www.gla.ac.uk/colleges/scienceengineering/students/epsrcvacationinternships2023/anevaluationofmodel-basedmethodsforcontrolindriverlessracing/)
  
