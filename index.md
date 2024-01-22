@@ -12,10 +12,7 @@ He received his German Diplom (MSc. equivalent) in Computer Science and Electric
 
 [Publications on Google Scholar](https://scholar.google.com/citations?user=Lr28ImIAAAAJ)
 
-### <span style="color:red">!! VACANCIES !!</span>
-
-**Deadline 30 November** International PhD studentship (fees and stipend) on [Interactive Model-based Probabilistic Visualisations for Exploring Decisions](https://www.findaphd.com/phds/project/phd-in-computing-science-interactive-model-based-probabilistic-visualisations-for-exploring-decisions/?p159667). Candidates of all nationalities are eligible to apply.
-
+<!-- ### <span style="color:red">!! VACANCIES !!</span> -->
 
 ### Students
  - [Keri Anderson](https://twitter.com/KeriAnderson_) (PhD, second supervisor)
