@@ -15,6 +15,7 @@ He received his German Diplom (MSc. equivalent) in Computer Science and Electric
 <!-- ### <span style="color:red">!! VACANCIES !!</span> -->
 
 ### Students
+ - Ho  Suen (PhD, second supervisor)
  - [Keri Anderson](https://twitter.com/KeriAnderson_) (PhD, second supervisor)
  - [Valentin Charvet](https://www.dcs.gla.ac.uk/~valentin/aboutme/) (PhD, second supervisor)
 
