@@ -14,12 +14,17 @@ He received his German Diplom (MSc. equivalent) in Computer Science and Electric
 
 <!-- ### <span style="color:red">!! VACANCIES !!</span> -->
 
+### Vacancies
+
+**Ph.D. studentship with Aegean Airlines.** [*Model-based shared autonomy via active inference*](./aegeanphd.html), Supervised by Sebastian Stein and Roderick Murray-Smith. Application deadline, 15th March 2025. Fully funded PhD studentship (fees + stipend at [research council rates](https://www.ukri.org/what-we-do/developing-people-and-skills/find-studentships-and-doctoral-training/changes-to-the-minimum-stipend-from-1-october-2023/). For 2024-25 the stipend is £19237 per year. The stipend is usually non-taxable and does not need to be paid back.). This studentship is available to all candidates including international students.
+
 ### Students
- - Ho  Suen (PhD, second supervisor)
- - [Keri Anderson](https://twitter.com/KeriAnderson_) (PhD, second supervisor)
- - [Valentin Charvet](https://www.dcs.gla.ac.uk/~valentin/aboutme/) (PhD, second supervisor)
+ - Ho Suen (PhD started in 2024, I am his second supervisor)
+ 
 
 #### past student supervision
+  - [Keri Anderson](https://twitter.com/KeriAnderson_) PhD graduated in Summer 2025, I was her second supervisor
+  - [Valentin Charvet](https://www.dcs.gla.ac.uk/~valentin/aboutme/) PhD graduated in Summer 2025, I was his second supervisor
   - [Evdoxia Taka](http://www.dcs.gla.ac.uk/~evdoxia/) PhD graduated in Winter 2023, I was her second supervisor
   - [Joseph Agrane](https://www.linkedin.com/in/joseph-agrane-5aa916213/) EPSRC Vacation Intern, June-August 2023 [[project description]](https://www.gla.ac.uk/colleges/scienceengineering/students/epsrcvacationinternships2023/anevaluationofmodel-basedmethodsforcontrolindriverlessracing/)
  
