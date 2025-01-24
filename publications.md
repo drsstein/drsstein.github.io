@@ -8,6 +8,7 @@ permalink: /publications
 
 
 #### Peer-reviewed Journals
+ 17. K. Anderson, S. Stein, H. Suen, M. Purcell, M. Belci, E. McCaughey, R. McLean, A. Khine, A. Vuckovic. [Generalisation of EEG-Based Pain Biomarker Classification.  for Predicting Central Neuropathic Pain in Subacute Spinal Cord Injury](https://www.mdpi.com/2227-9059/13/1/213). MDPI Biomedicines 13(1), 213, 2025. [[doi]](https://doi.org/10.3390/biomedicines13010213)
  16. Evdoxia Taka, Sebastian Stein and John H. Williamson. [Does Interactive Conditioning Help Users Better Understand the Structure of Probabilistic Models?](https://www.computer.org/csdl/journal/tg/5555/01/10007070/1JH4iZQdoEU). IEEE Transactions on Visualization & Computer Graphics, 2023. [[doi]](https://doi.ieeecomputersociety.org/10.1109/TVCG.2022.3231967)
  15. S. Maadi, S. Stein, J. Hong and R. Murray-Smith. [Real-Time Adaptive Traffic Signal Control in a Connected and Automated Vehicle Environment: Optimisation of Signal Planning with Reinforcement Learning under Vehicle Speed Guidance](https://www.mdpi.com/1424-8220/22/19/7501). Sensors 22(19), 2022. [[doi]](https://doi.org/10.3390/s22197501)
  14. K. Anderson, C. Chirion, M. Fraser, M. Purcell, S. Stein, A. Vuckovic. [Markers of Central Neuropathic Pain in Higuchi Fractal Analysis of EEG Signals from People with Spinal Cord Injury](https://www.frontiersin.org/articles/10.3389/fnins.2021.705652/full), Frontiers in Neuroscience, section Neuroprosthetics, Frontiers, 2021. [[doi]](https://doi.org/10.3389/fnins.2021.705652)
@@ -35,8 +36,9 @@ permalink: /publications
 
 #### Technical Reports
 
- - Sebastian Stein and John H. Williamson. [Evaluating Bayesian Model Visualisations](https://arxiv.org/abs/2201.03604). Arxiv:2201.03605, 2022.
- - A. Loriette, B. Caramiaux, S. Stein, J. Williamson. [Using models of baseline gameplay to design for physical rehabilitation](https://arxiv.org/abs/2209.14788). Arxiv:2209.14788, 2022.
+  - Roderick Murray-Smith, John H. Williamson, Sebastian Stein. [Active Inference and Human-Computer Interaction](https://arxiv.org/abs/2412.14741). Arxiv:2412.14741, 2024
+  - Sebastian Stein and John H. Williamson. [Evaluating Bayesian Model Visualisations](https://arxiv.org/abs/2201.03604). Arxiv:2201.03605, 2022.
+  - Antoine Loriette, Baptiste Caramiaux, Sebastian Stein, John H. Williamson. [Using models of baseline gameplay to design for physical rehabilitation](https://arxiv.org/abs/2209.14788). Arxiv:2209.14788, 2022.
  - M. Bin, P. Cheung, E. Crisostomi, P. Ferraro, H. Lhachemi, R. Murray-Smith, C. Myant, T. Parisini, R. Shorten, S. Stein, L. Stone. [On Fast Multi-Shot COVID-19 Interventions for Post Lock-Down Mitigation](https://arxiv.org/abs/2003.09930), arXiv, 2020. [[pdf]](https://arxiv.org/pdf/2003.09930). **Featured in** [Scientific American](https://blogs.scientificamerican.com/observations/the-new-science-of-lockdowns/), [Nature Physics Opinions](https://www.nature.com/articles/s41567-020-01115-w), and [Bloomberg](https://www.bloomberg.com/opinion/articles/2020-12-08/targeted-covid-lockdowns-could-help-during-wait-for-vaccines)
  
 #### Theses
