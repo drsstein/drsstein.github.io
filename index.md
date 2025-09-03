@@ -14,13 +14,9 @@ He received his German Diplom (MSc. equivalent) in Computer Science and Electric
 
 <!-- ### <span style="color:red">!! VACANCIES !!</span> -->
 
-### Vacancies
-
-**Ph.D. studentship with Aegean Airlines.** [*Model-based shared autonomy via active inference*](https://difai-project.org/aegeanphd.html), Supervised by Sebastian Stein and Roderick Murray-Smith. Application deadline, 30th June 2025. Fully funded PhD studentship (fees + stipend at [research council rates](https://www.ukri.org/what-we-do/developing-people-and-skills/find-studentships-and-doctoral-training/changes-to-the-minimum-stipend-from-1-october-2023/). For 2025-26 the stipend is £20,780 per year. The stipend is usually non-taxable and does not need to be paid back.). This studentship is available to all candidates including international students.
-
 ### Students
  - Ho Suen (PhD started in 2024, I am his second supervisor)
- 
+ - Parth Patel (PhD expected to start in 2025, I will be his first supervisor)
 
 #### past student supervision
   - [Keri Anderson](https://twitter.com/KeriAnderson_) PhD graduated in Summer 2025, I was her second supervisor
