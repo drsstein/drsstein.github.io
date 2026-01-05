@@ -16,8 +16,8 @@ He received his German Diplom (MSc. equivalent) in Computer Science and Electric
 [Funded PhD studentship on visual and audio neuromodulation via EEG/BCI](https://www.findaphd.com/phds/project/phd-in-biomedical-engineering-brain-computer-interface-neuromodulation-and-ai-discovery-of-eeg-markers-of-pain/?p192397)
 
 ### Students
+ - Parth Patel (PhD started in December 2025, I am his first supervisor)
  - Ho Suen (PhD started in 2024, I am his second supervisor)
- - Parth Patel (PhD expected to start in 2025, I will be his first supervisor)
 
 #### past student supervision
   - [Keri Anderson](https://twitter.com/KeriAnderson_) PhD graduated in Summer 2025, I was her second supervisor
