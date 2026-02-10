@@ -12,8 +12,8 @@ He received his German Diplom (MSc. equivalent) in Computer Science and Electric
 
 [Publications on Google Scholar](https://scholar.google.com/citations?user=Lr28ImIAAAAJ)
 
-### <span style="color:red">!! VACANCIES !!</span>
-[Funded PhD studentship on visual and audio neuromodulation via EEG/BCI](https://www.findaphd.com/phds/project/phd-in-biomedical-engineering-brain-computer-interface-neuromodulation-and-ai-discovery-of-eeg-markers-of-pain/?p192397)
+<!-- ### <span style="color:red">!! VACANCIES !!</span>
+[Funded PhD studentship on visual and audio neuromodulation via EEG/BCI](https://www.findaphd.com/phds/project/phd-in-biomedical-engineering-brain-computer-interface-neuromodulation-and-ai-discovery-of-eeg-markers-of-pain/?p192397) -->
 
 ### Students
  - Parth Patel (PhD started in December 2025, I am his first supervisor)
