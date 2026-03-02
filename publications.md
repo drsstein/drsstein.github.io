@@ -8,6 +8,7 @@ permalink: /publications
 
 
 #### Peer-reviewed Journals
+ 19. M. Klar, S. Stein, F. Paterson, J. H. Williamson, H. Gollee, R. Murray-Smith. [Intermittent Active Inference](https://www.mdpi.com/1099-4300/28/3/269). MDPI Entropy 2026, 28(3), 269, Special Issue on Active Inference in Cognitive Neuroscience. [[doi]](https://doi.org/10.3390/e28030269)
  18. R. Murray-Smith, J. H. Williamson, S. Stein. [Active Inference and Human-Computer Interaction](https://dl.acm.org/doi/10.1145/3762812). ACM Transaction on Computer-Human Interaction (TOCHI), 2025. [[doi]](https://dl.acm.org/doi/10.1145/3762812)
  17. K. Anderson, S. Stein, H. Suen, M. Purcell, M. Belci, E. McCaughey, R. McLean, A. Khine, A. Vuckovic. [Generalisation of EEG-Based Pain Biomarker Classification.  for Predicting Central Neuropathic Pain in Subacute Spinal Cord Injury](https://www.mdpi.com/2227-9059/13/1/213). MDPI Biomedicines 13(1), 213, 2025. [[doi]](https://doi.org/10.3390/biomedicines13010213)
  16. Evdoxia Taka, Sebastian Stein and John H. Williamson. [Does Interactive Conditioning Help Users Better Understand the Structure of Probabilistic Models?](https://www.computer.org/csdl/journal/tg/5555/01/10007070/1JH4iZQdoEU). IEEE Transactions on Visualization & Computer Graphics, 2023. [[doi]](https://doi.ieeecomputersociety.org/10.1109/TVCG.2022.3231967)
